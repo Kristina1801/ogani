@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "title": "Beef",
+    "category_id": 3,
+    "price": {
+      "old": null,
+      "current": 9.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-1.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 1,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "category_id": 1,
+    "price": {
+      "old": 36.0,
+      "current": 18.0,
+      "discount": 20
+    },
+    "image": {
+      "src": "article-2.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 1,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "Melon",
+    "category_id": 1,
+    "price": {
+      "old": null,
+      "current": 15.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-3.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 2,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "title": "Grapes",
+    "category_id": 1,
+    "price": {
+      "old": null,
+      "current": 25.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-4.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 3,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "title": "Burger",
+    "category_id": 5,
+    "price": {
+      "old": 49.0,
+      "current": 41.65,
+      "discount": 10
+    },
+    "image": {
+      "src": "article-5.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 4,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 6,
+    "title": "Mango",
+    "category_id": 1,
+    "price": {
+      "old": null,
+      "current": 4.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-6.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 2,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 7,
+    "title": "Watermelon",
+    "category_id": 1,
+    "price": {
+      "old": null,
+      "current": 13.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-7.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 1,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 8,
+    "title": "Apple",
+    "category_id": 1,
+    "price": {
+      "old": null,
+      "current": 44.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-8.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 3,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 9,
+    "title": "Dry Plums",
+    "category_id": 1,
+    "price": {
+      "old": 36.0,
+      "current": 28.8,
+      "discount": 20
+    },
+    "image": {
+      "src": "article-9.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 4,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 10,
+    "title": "Fried Chicken",
+    "category_id": 5,
+    "price": {
+      "old": 8.0,
+      "current": 4.0,
+      "discount": 50
+    },
+    "image": {
+      "src": "article-10.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 5,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 11,
+    "title": "Orange Juice",
+    "category_id": 4,
+    "price": {
+      "old": null,
+      "current": 2.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-11.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 2,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 12,
+    "title": "Fruit Mix",
+    "category_id": 1,
+    "price": {
+      "old": 36.0,
+      "current": 30.0,
+      "discount": 20
+    },
+    "image": {
+      "src": "article-12.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 3,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 13,
+    "title": "Vegetables Mix",
+    "category_id": 2,
+    "price": {
+      "old": null,
+      "current": 30.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-13.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 4,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 14,
+    "title": "Paprika",
+    "category_id": 2,
+    "price": {
+      "old": 29.0,
+      "current": 25.0,
+      "discount": 20
+    },
+    "image": {
+      "src": "article-14.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 2,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 15,
+    "title": "Spinach",
+    "category_id": 2,
+    "price": {
+      "old": null,
+      "current": 20.0,
+      "discount": null
+    },
+    "image": {
+      "src": "article-15.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 1,
+    "color_id": 1,
+    "isFeatured": true
+  },
+  {
+    "id": 16,
+    "title": "Grocery Mix",
+    "category_id": 2,
+    "price": {
+      "old": 60.0,
+      "current": 50.0,
+      "discount": 20
+    },
+    "image": {
+      "src": "article-16.jpg",
+      "alt": "Product"
+    },
+    "description": "description",
+    "date": "2023-03-03",
+    "size_id": 3,
+    "color_id": 1,
+    "isFeatured": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": {
+      "src": "article-2.jpg",
+      "alt": "Category image"
+    },
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "img": {
+      "src": "article-13.jpg",
+      "alt": "Category image"
+    },
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "img": {
+      "src": "article-1.jpg",
+      "alt": "Category image"
+    },
+    "category_id": 3
+  },
+  {
+    "id": 4,
+    "img": {
+      "src": "article-11.jpg",
+      "alt": "Category image"
+    },
+    "category_id": 4
+  },
+  {
+    "id": 5,
+    "img": {
+      "src": "article-5.jpg",
+      "alt": "Category image"
+    },
+    "category_id": 5
+  }
+]

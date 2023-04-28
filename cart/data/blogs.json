@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "10 Superfoods You Should Include in Your Diet for a Healthier You",
+    "description": "In this blog, we'll discuss 10 amazing superfoods that can boost your energy, improve your immune system, and help you feel great. From leafy greens to berries, we've got you covered!",
+    "image": {
+      "href": "blog-4.jpg",
+      "alt": "Blog"
+    },
+    "blog_category": 1,
+    "date": "2023-02-03"
+  },
+  {
+    "id": 2,
+    "title": "The Benefits of Eating a Plant-Based Diet for Your Health",
+    "description": "In this blog, we'll explore the many benefits of adopting a plant-based diet, including reducing your risk of chronic disease, improving your digestion, and even helping you lose weight. We'll also share tips for making the transition to a plant-based lifestyle.",
+    "image": {
+      "href": "blog-2.jpg",
+      "alt": "Blog"
+    },
+    "blog_category": 2,
+    "date": "2023-01-13"
+  },
+  {
+    "id": 3,
+    "title": "How to Meal Prep for a Week of Healthy Eating",
+    "description": "In this blog, we'll walk you through the steps of meal prepping for a week of healthy eating. We'll share tips for planning your meals, choosing recipes, and prepping your ingredients to make your week as easy and delicious as possible.",
+    "image": {
+      "href": "blog-3.jpg",
+      "alt": "Blog"
+    },
+    "blog_category": 3,
+    "date": "2023-03-23"
+  },
+  {
+    "id": 4,
+    "title": "The Importance of Hydration for Your Health",
+    "description": "In this blog, we'll dive into the importance of hydration for your overall health and wellbeing. We'll share tips for staying hydrated throughout the day, and discuss the benefits of drinking water for your skin, digestion, and energy levels.",
+    "image": {
+      "href": "blog-1.jpg",
+      "alt": "Blog"
+    },
+    "blog_category": 2,
+    "date": "2023-03-11"
+  },
+  {
+    "id": 5,
+    "title": "Healthy Snacks to Keep You Energized and Focused Throughout the Day",
+    "description": "In this blog, we'll share some of our favorite healthy snacks to help you stay energized and focused throughout the day. From nuts to veggies and hummus, we've got plenty of tasty ideas to keep you satisfied.",
+    "image": {
+      "href": "blog-5.jpg",
+      "alt": "Blog"
+    },
+    "blog_category": 4,
+    "date": "2023-02-23"
+  },
+  {
+    "id": 6,
+    "title": "How to Incorporate Mindful Eating into Your Daily Routine",
+    "description": "In this blog, we'll explore the benefits of mindful eating, and share tips for incorporating this practice into your daily routine. From savoring your food to paying attention to your hunger and fullness cues, we'll show you how to eat with intention and enjoy your food to the fullest.",
+    "image": {
+      "href": "blog-6.jpg",
+      "alt": "Blog"
+    },
+    "blog_category": 1,
+    "date": "2023-02-22"
+  }
+]

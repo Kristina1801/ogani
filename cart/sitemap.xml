@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      >
+<url>
+  <loc>https://web2pop.000webhostapp.com</loc>
+  <lastmod>2023-4-7T22:35:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://web2pop.000webhostapp.com/shop.html</loc>
+  <lastmod>2023-4-7T22:35:20+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://web2pop.000webhostapp.com/checkout.html</loc>
+  <lastmod>2023-4-7T22:35:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web2pop.000webhostapp.com/blog.html</loc>
+  <lastmod>2023-4-7T22:35:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://web2pop.000webhostapp.com/author.html</loc>
+  <lastmod>2023-4-7T22:35:20+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.60</priority>
+</url>
+
+</urlset>

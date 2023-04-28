@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="Welcome to Ogani, your one-stop shop for fresh, organic groceries."
+    />
+    <meta name="keywords" content="Ogani, organic, grocery, shop" />
+    <meta name="author" content="Duško Božić" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Ogani | Blog</title>
+
+    <!-- Google Font -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css" />
+    <link rel="stylesheet" href="css/nice-select.css" type="text/css" />
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="shortcut icon" href="img/logo-icon.ico" type="image/x-icon" />
+  </head>
+
+  <body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+      <div class="loader"></div>
+    </div>
+
+    <!-- Humberger Begin -->
+    <div class="humberger__menu__overlay"></div>
+    <div id="mobileNav" class="humberger__menu__wrapper"></div>
+    <!-- Humberger End -->
+
+    <!-- Header Section Begin -->
+    <header id="headerWrap" class="header"></header>
+    <!-- Header Section End -->
+
+    <!-- Breadcrumb Section Begin -->
+    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <div class="breadcrumb__text">
+              <h2>Blog</h2>
+              <div class="breadcrumb__option">
+                <a href="./index.html">Home</a>
+                <span>Blog</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Breadcrumb Section End -->
+
+    <!-- Blog Section Begin -->
+    <section class="blog spad">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-5">
+            <div class="blog__sidebar">
+              <form action="#" name="blogForm">
+                <div class="blog__sidebar__search">
+                  <input
+                    type="text"
+                    id="searchBlog"
+                    name="searchBlog"
+                    placeholder="Search..."
+                  />
+                  <button type="submit">
+                    <span class="icon_search"></span>
+                  </button>
+                </div>
+                <div class="blog__sidebar__item">
+                  <h4>Categories</h4>
+                  <ul id="blogCategoriesWrap"></ul>
+                </div>
+                <div class="blog__sidebar__item">
+                  <h4>Recent News</h4>
+                  <div class="blog__sidebar__recent" id="blogSidebar"></div>
+                </div>
+                <button type="button" class="btn btn-info" id="blogReset">
+                  Reset
+                </button>
+              </form>
+            </div>
+          </div>
+          <div class="col-lg-8 col-md-7">
+            <div class="row" id="blogWrap"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Blog Section End -->
+
+    <!-- Footer Section Begin -->
+    <footer class="footer spad" id="footerWrap"></footer>
+    <!-- Footer Section End -->
+
+    <!-- Modal -->
+    <div
+      class="modal fade"
+      id="blogModal"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Blog</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <img id="modalImage" src="" alt="${el.image.alt}" />
+            <h4 id="modalTitle" class="my-3"></h4>
+            <p id="modalDescription"></p>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-dismiss="modal"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Js Plugins -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/mixitup.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- <script src="js/main.js"></script> -->
+    <script src="js/custom.js"></script>
+  </body>
+</html>

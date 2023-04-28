@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "href": "index.html"
+  },
+  {
+    "id": 2,
+    "title": "Shop",
+    "href": "shop.html"
+  },
+  {
+    "id": 3,
+    "title": "Blog",
+    "href": "blog.html"
+  },
+  {
+    "id": 4,
+    "title": "Contact",
+    "href": "contact.html"
+  },
+  {
+    "id": 5,
+    "title": "Author",
+    "href": "author.html"
+  }
+]

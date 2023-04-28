@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "class": "icon_phone",
+    "title": "Phone",
+    "value": "+01-3-8888-6868"
+  },
+  {
+    "id": 2,
+    "class": "icon_pin_alt",
+    "title": "Address",
+    "value": "60-49 Road 11378 New York"
+  },
+  {
+    "id": 3,
+    "class": "icon_clock_alt",
+    "title": "Open time",
+    "value": "10:00 am to 23:00 pm"
+  },
+  {
+    "id": 4,
+    "class": "icon_mail_alt",
+    "title": "Email",
+    "value": "hello@colorlib.com"
+  }
+]

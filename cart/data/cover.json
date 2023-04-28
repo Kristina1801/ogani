@@ -1,0 +1,10 @@
+{
+  "img": "banner.jpg",
+  "eyebrow": "FRUIT FRESH",
+  "title": "Vegetable <br />100% Organic",
+  "desc": "Free Pickup and Delivery Available",
+  "btn": {
+    "text": "SHOP NOW",
+    "href": "shop.html"
+  }
+}
